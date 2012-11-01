@@ -1,4 +1,7 @@
 #Module
 
-obj-m += cpufreq_conservative.o cpufreq_interactive.o cpufreq_smartass.o
-
+obj-m += cpufreq_interactiveX.o
+obj-m += cpufreq_boostedASS2.o
+obj-m += cpufreq_hotplugX.o
+obj-m += cpufreq_smartass2.o
+obj-m += cpufreq_pegasusq.o

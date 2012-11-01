@@ -1,4 +1,3 @@
 #Module
 
-obj-m += overclock.o
-
+obj-m += cpu_control.o
