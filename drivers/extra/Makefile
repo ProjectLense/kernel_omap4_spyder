@@ -4,7 +4,7 @@
 obj-y += symsearch/
 
 ## CPU-freq governor
-obj-y += cpufeq/
+obj-y += cpufreq/
 
 ## IO-scheduler
 obj-y += io/
